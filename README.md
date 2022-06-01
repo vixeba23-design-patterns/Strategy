@@ -1,2 +1,2 @@
 # Strategy
-Design pattern "Strategy" applied with the use of sorting algorithms.
+Behavioral design pattern "Strategy" applied with the use of sorting algorithms.
