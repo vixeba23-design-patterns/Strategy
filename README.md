@@ -1,0 +1,2 @@
+# Strategy
+Design pattern - Strategy.
